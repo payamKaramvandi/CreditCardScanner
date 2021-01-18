@@ -1,0 +1,3 @@
+rootProject.name = "BentOak_Tech_Challenge"
+include ':app'
+include ':core'
